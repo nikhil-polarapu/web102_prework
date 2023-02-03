@@ -25,7 +25,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-[Video Walkthrough](https://i.imgur.com/UykMpOY.gifv)
+[Video Walkthrough](https://i.imgur.com/GvkfmPL.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
