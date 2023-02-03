@@ -25,7 +25,6 @@ Added a page title.
 Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/UykMpOY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-[Video Walkthrough](https://i.imgur.com/UykMpOY.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
