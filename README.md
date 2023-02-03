@@ -19,13 +19,13 @@ The following **optional** features are implemented:
 
 * [x] List anything else that you can get done to improve the app functionality!
 
-Added a page title.
+
 
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
 
-<img src='https://i.imgur.com/UykMpOY.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+[Video Walkthrough](https://i.imgur.com/UykMpOY.gifv)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with LICEcap  
